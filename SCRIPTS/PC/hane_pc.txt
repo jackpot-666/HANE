@@ -4435,7 +4435,7 @@ bg black,22
 ld l,jes_futekiA2,22
 
 ;　ただその、勢いと雰囲気に飲まれちゃって。@
-`Eu simplesmente fui pega no entusiasmo e na atmosfera do momento.`@
+`Simplesmente fui pega pelo entusiasmo e atmosfera do momento.`@
 ;br
 ;　私のセンスとハートなら、出来るかなぁ～、なんて思っちゃって。\
 `Eu comecei a pensar, 'Com meu coraﾆﾃo e bom gosto, talvez eu possa fazer isso~'.`\
@@ -7243,7 +7243,7 @@ cl a,23
 `"Ahahaha"`@` "Ufufufu"`@` "Kyahahaha"`@
 ;br
 ;　親族会議にやって来た親族たちが、いつもと変わらない会話を弾ませながら薔薇庭園を歩く。\
-`Os membros da famｨlia, vindos para a conferｹncia de famｨlia, passeavam em volta do jardim de rosas, conversando como sempre.`\
+`Os membros da famｨlia, vindos para a conferｹncia familiar, passeavam pelo jardim de rosas, conversando como sempre.`\
 
 ;　しかし今年は、去年までとは少しだけ違う。@
 `Mas este ano era ligeiramente diferente do ano anterior.`@
@@ -7267,7 +7267,7 @@ ld l,JES_AkuwaraiA1,23
 ld r,GEO_WaraiA1,24
 
 ;「はははは。@朱志香ちゃんはこの６年間、戦人くんがいなくてつまらなそうだったからね。@それにしても、デケェ図体というのは同感。@戦人くんは、本当に大きくなったね。」\
-`"Hahaha.`@` Parece que vocｹ ficou entediada nesses 6 anos sem o Battler-kun, hein, Jessica-chan?`@` Mas a ｧrea nﾃo ｪ a ｸnica coisa que parece enorme.`@` Battler-kun, vocｹ realmente cresceu bastante!"`\
+`"Hahaha.`@` Parece que vocｹ ficou entediada nesses 6 anos sem o Battler-kun, hein, Jessica-chan?`@` Mas o lugar nﾃo ｪ a ｸnica coisa que parece enorme.`@` Battler-kun, vocｹ realmente cresceu bastante!"`\
 
 cl r,23
 ld r,MAR_DefA1,24
