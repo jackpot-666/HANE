@@ -7080,7 +7080,7 @@ ld c,jes_tereruA1,6
 
 ;「は、……はい。@……どうも、ありがとうございます。」@
 `"S-Sim.`@` ......Muito obrigada."`\
-br
+
 ;　机に突っ伏していた朱志香が、おずおずと顔を上げる。@
 ;　その顔は、赤面していて真っ赤だった。\
 `Jessica, que ainda estava se apoiando sobre a mesa, timidamente levantou a cabeﾆa.`@
@@ -7090,7 +7090,7 @@ br
 ld l,lam_akuwaraiA4,80
 
 ;「パーの私が言うのも何だけどぉ。@……カッコつけて英語使う時はー、ちゃんとスペルを見た方がいいわよー。」@
-`"Jｧ que sou idiota como papel, nﾃo estou em condiﾆｷes de dizer isso, mas`@`......auando vocｹ tenta parecer legal usando palavras em inglｹs, vocｹ deve realmente se certificar de que as escreveu direito."`\
+`"Jｧ que sou idiota como papel, nﾃo estou em condiﾆｷes de dizer isso, mas`@`......quando vocｹ tenta parecer legal usando palavras em inglｹs, vocｹ deve realmente se certificar de que as escreveu direito."`\
 
 ld r,ber_defA2,80
 
@@ -7740,7 +7740,7 @@ E_A
 bgm1 157
 ;………俺は、最高に美しくて、最高に最低な、@……散り際が見たいんだ。」@
 ` .........O que eu quero ver ｪ o mais belo, o mais terrｨvel`@`......momento de dispersﾃo."`\
-br
+
 ;　戦人はそう言って立ち上がり、暗い紫色にうねる空を見上げて両腕を広げて、叫ぶ。\
 `Battler se levantou enquanto dizia isso e, olhando para o cｪu escuro e violeta, abriu os braﾆos e gritou.`\
 

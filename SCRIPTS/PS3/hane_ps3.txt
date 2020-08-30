@@ -6983,7 +6983,7 @@ bgm1 43
 `......Eles estavam sobre uma cama, na casa de hｫspedes.`@
 ;br
 ;　二人はしばしの間、呆然としたまま抱き締めあっていた……。\
-`Por um momento, eles se sentaram ali, segurando um ao outro firmemente, em espantados.......`\
+`Por um momento, eles se sentaram ali, segurando um ao outro firmemente, espantados.......`\
 
 ld c,sha_odorokiA1,6
 
