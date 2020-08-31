@@ -1,0 +1,36 @@
+name: Compile and release (PS3)
+
+# Tradução: quando houver uma atualização (push) ou pedido de atualização (pull request) nos arquivos hane_ps3.txt, este script poderá ser rodado, mas APENAS se houver a adição de uma tag
+on:
+  push:
+    tags:
+      - '*'
+    paths:
+      - 'SCRIPTS/PS3/hane_ps3.txt'
+  pull_request:
+    paths:
+      - 'SCRIPTS/PS3/hane_ps3.txt'
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+
+    - name: compile patch
+      run: python dependencies\compile_ps3.py
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: HE.KT.Umineko.Hane.PT-BR.(PS3).7z   # nome do arquivo final que irá para os releases
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
