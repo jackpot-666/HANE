@@ -29,7 +29,7 @@ killmenu 2
 
 ;caption "‚¤‚İ‚Ë‚±‚Ì‚È‚­ ‚É‰H"
 ;versionstr "‚¤‚İ‚Ë‚±‚Ì‚È‚­ ‚É‰H@ver1.001","§ì@‚O‚V‚”‚ˆ@‚d‚˜‚‚‚‚“‚‰‚‚"
-caption "Umineko no Naku Koro ni -Hane- Higurashi Eternal, Knox Translations (PT-BR) 1.01"
+caption "Umineko no Naku Koro ni -Hane- PS3(PT-BR)"
 versionstr "Umineko no Naku Koro ni Hane, ver1.001","created by 07th Expansion"
 ;English version
 
