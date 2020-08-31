@@ -4,12 +4,10 @@ name: Compile and release (PS3)
 on:
   push:
     tags:
-      - '*'
-    paths:
-      - 'SCRIPTS/PS3/hane_ps3.txt'
+    - '*'
+    branches: [ master ]
   pull_request:
-    paths:
-      - 'SCRIPTS/PS3/hane_ps3.txt'
+    branches: [ master ]
 
 jobs:
   build:
