@@ -4,12 +4,10 @@ name: Compile and release (PC)
 on:
   push:
     tags:
-      - '*'
-    paths:
-      - 'SCRIPTS/PC/hane_pc.txt'
+    - '*'
   pull_request:
-    paths:
-      - 'SCRIPTS/PC/hane_pc.txt'
+    tags:
+    - '*'
 
 jobs:
   build:
