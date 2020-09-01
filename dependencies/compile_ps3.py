@@ -24,6 +24,7 @@ def prepareFiles():
         'textbox1.zip', 
         'textbox2.zip', 
         'textbox3.zip', 
+        'unzip.exe', 
         'Umineko_Hane_PTBR.exe',
         'Personalizar_caixa_de_texto.bat'
     ]

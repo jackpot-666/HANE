@@ -21,11 +21,7 @@ def prepareFiles():
         'Leia-me.txt',
         'ons.cfg', 
         'SDL.dll', 
-        'textbox1.zip', 
-        'textbox2.zip', 
-        'textbox3.zip', 
         'Umineko_Hane_PTBR.exe',
-        'Personalizar_caixa_de_texto.bat'
     ]
 
     for files in dependencies:
