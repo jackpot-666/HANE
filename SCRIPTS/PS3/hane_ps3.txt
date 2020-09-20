@@ -7326,7 +7326,7 @@ ld r,GOH_omakaseA2,80
 ;「ささ、皆様方。@ゲストハウスへご案内いたします。@どうぞこちらへ、どうぞどうぞ……。」@
 `"Vamos indo, pessoal.`@` Vou levｧ-los ﾚ casa de hｫspedes.`@` Me acompanhem, por favor, por aqui......"`\
 
-mld c,RUD_DefA1,80
+ld c,RUD_DefA1,80
 
 ;「ん…？@　どうしたよ、戦人ぁ？@　こっちだぜ？」\
 `"Hﾃ...?`@` O que foi, Battler?`@` Algum problema?"`\
