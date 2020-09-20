@@ -4395,7 +4395,7 @@ bg tel1a,22
 ;fedexx 50,0,0,0,0,0,2000 
 
 ;『ジェシーってさー、いつもどんな風に作詞やってんの？』\
-`"Ei, Jessie, como costuma elaborar as letras das mｸsicas que vocｹ estｧ sempre escrevendo?"`\
+`"Ei, Jessie, como costuma elaborar as letras das mｸsicas que vocｹ estｧ sempre compondo?"`\
 
 ld r,jes_akuwaraiA1,22
 
@@ -4408,8 +4408,8 @@ ld r,jes_waraiA1,80
 
 ;『そうとも言うなー。@つまり！@　私はハートから湧き出す物語を、歌に乗せてるーってわけだぜ！』@
 ;『そうそう！@　ジェシーの歌詞ってさー、物語あるよねー！@　ジェシーってきっと、物語とか書くの、絶対うまいよ！』\
-`"Vocｹ tambｪm poderia dizer desse jeito.`@` Em outras palavras!`@` Eu organizo as histｫrias jorrando do meu coraﾆﾃo e dou asas a elas com mｸsica!"`\
-`"Sim, sim!`@` Suas mｸsicas sempre trazem histｫrias consigo, Jessie!`@` Eu aposto que se escrevesse uma histｫria ou algo assim, seria incrｨvel!"`\
+`"Tambｪm podemos colocar desta forma.`@` Em outras palavras!`@` Eu organizo as histｫrias jorrando do meu coraﾆﾃo e dou asas a elas com mｸsica!"`\
+`"Sim, sim!`@` Suas mｸsicas sempre trazem histｫrias consigo, Jessie!`@` Eu aposto que se escrevesse uma histｫria ou algo assim, ela ficaria incrｨvel!"`\
 
 ld r,jes_futekiA2,80
 
@@ -4427,10 +4427,10 @@ bg black,22
 
 
 ;　………正直、安請け合いだった。@
-`......Honestamente, eu devia ter pensado um pouco mais antes de decidir qualquer coisa.`@
+`.........Honestamente, eu devia ter pensado um pouco mais antes de decidir qualquer coisa.`\
 ;br
 ;　来月の文化祭でお芝居をやるらしくて。@……その脚本を、締め切りが急だとかで３日で書いてくれなんて話になるとは、@……夢にも思わなかったぜ…。\
-`Aconteceu que haveria uma peﾆa no festival cultural do mｹs seguinte.`@` ...Eu nﾃo fazia ideia`@`...de que a conversa iria terminar com ela me pedindo para escrever o roteiro, com 3 dias para o fim do prazo.`\
+`Aconteceu que haveria uma peﾆa no festival cultural do mｹs seguinte.`@` ......Eu nﾃo fazia ideia`@`......de que a conversa iria terminar com ela me pedindo para escrever o roteiro, com 3 dias para o fim do prazo.`\
 
 ld l,jes_futekiA2,22
 
@@ -4445,7 +4445,7 @@ bg black,22
 ;　……そう言えば母さんによく注意されてたなぁ。@
 ;　あなたとお父さんには、その場の雰囲気でＯＫをしてしまう悪い癖があるから注意しなさいって。@
 `......Pensando nisso agora, a mamﾃe bem que me avisou, nﾃo foi?`@
-`'Vocｹ e seu pai tｹm o pｪssimo hｧbito de serem apanhados pelo clima de uma situaﾆﾃo e concordarem com as coisas. Vocｹ precisa ser mais cuidadosa.'`@
+`'Vocｹ e seu pai tｹm o pｪssimo hｧbito de serem envolvidos pelo calor do momento e concordarem com as coisas. Vocｹ precisa ser mais cuidadosa.'`@
 
 ;wait 300
 ;ld l,jes_aisowaraiA1,80
@@ -4499,7 +4499,7 @@ print 99,1000,"trvswave.dll/"
 ;bg MJES_1e,80
 ;wait 700
 ;　不眠不休で書いたから、……頭が朦朧とする…。\
-`Passei noite e dia escrevendo sem descaﾆo, ......entﾃo minha mente estｧ meio entorpecida...`\
+`Passei noite e dia escrevendo sem descanﾆo, ......entﾃo minha mente estｧ meio entorpecida...`\
 
 lsp 800,":c;bmp\black.bmp",0,0,100
 print 22
@@ -4513,7 +4513,7 @@ print 22
 @
 ;br
 ;　舞台脚本なんて初めてだから、……多少は不出来なところもあるだろう。@
-`ｴ a minha primeira vez escrevendo um roteiro, .....entﾃo sei que deve ter umas partes acabadas aqui e ali.`\
+`ｴ a minha primeira vez escrevendo um roteiro, .....entﾃo sei que deve ter umas partes mal-acabadas aqui e ali.`\
 ;ld r,jes_defa1,80
 ;　しかし、私の持てるアイデアとユーモアとハートと恋と熱血とっ。@
 `Eu tenho todas essas ideias sobre comｪdia, coraﾆﾃo, amor e paixﾃo...`\
@@ -4573,8 +4573,8 @@ me1v 12,50
 ;br
 ;　……あれ？@　誰？@
 ;　私は眠さで朦朧とした頭で、ぼんやりと振り返ると。\
-`......Hﾃ?`@` Quem escreveu?`@
-`Minha mente ainda estｧ meio atordoada por causa da falta de sono, entﾃo me virei ainda meio perdida.`\
+`......Hﾃ?`@` Quem ｪ essa?`@
+`Minha mente ainda estｧ um pouco atordoada por causa da falta de sono, entﾃo me virei ainda meio perdida.`\
 
 
 ;bg mjes_1an,4
@@ -4602,7 +4602,7 @@ ld c,lam_akuwaraiA1,80
 se1 37
 ;「きゃっはははははは！@　面白いわ、これ。@特にオチが最高だわ！@　きゃっはははははははは！」@
 ;「そ、そりゃどうも……。@むにゃむにゃ…。」@
-`"Kyahahahahahaha!`@` Isto ｪ hilｧrio.`@` Especialmente esta #ECD672punchline#FFFFFF, foi demais!`@` Kyahahahahahahahaha!"`\
+`"Kyahahahahahaha!`@` Isto ｪ hilｧrio.`@` Especialmente esta punchline, foi demais!`@` Kyahahahahahahahaha!"`\
 `"B-Bem, obrigada......`@` *resmunga*resmunga*"`\
 ;br
 ;　…………おかしいな。@そんなに爆笑するようなオチを付けたっけ…。\
@@ -4665,7 +4665,7 @@ print 25
 \
 
 ;　ピンクのお子ちゃまが、何だか得意気に語っているのだが、@……もう、意識が途切れ途切れで、何もわからない。@
-`A garotinha com o vestido rosa estava se gabando de alguma coisa, mas`@` ......minha consciｹncia estava indo e vindo, e eu nﾃo conseguia entender mais nada.`@
+`A garotinha com o vestido rosa estava se gabando de alguma coisa, mas`@`......minha consciｹncia estava indo e vindo, e eu nﾃo conseguia entender mais nada.`@
 ;br
 ;　私の意識は完全に途切れ、魂はもう、ふわふわの羽根布団と形状記憶マクラに沈んでいくのだった………。\
 `Por fim, minha consciｹncia se foi, e eu comecei a afundar no meu futon de plumas, e meu travesseiro de memｫrias.........`\
@@ -4870,7 +4870,7 @@ quakey 1,200
 ld c,sha_odorokiA2,22
 
 ;…………え？」@
-`............Eh?"`@\
+` ............Quｹ?"`@\
 ;br
 se1 60
 ;　ゴゴ、ゴゴゴゴゴ………。/
@@ -4927,13 +4927,13 @@ se3 21
 
 ld r,but_komaruA1,26
 ;「これって……、今のナレーション通りになったってことか…？！」@
-`"Isto ｪ...... foi sua narraﾆﾃo de agora que se tornou realidade?!"`\
+`"Isto ｪ...... Foi sua narraﾆﾃo de agora que se tornou realidade?!"`\
 
 ld l,sha_odorokia2,26
 ;ld l,sha_komaruA1,80
 
 ;「お、お嬢様、……これは、一体……。」\
-`"O-Ojou-sama......que ｪ isso......?"`\
+`"O-Ojou-sama......o que ｪ isso......?"`\
 
 bg black,22
 
@@ -4945,7 +4945,7 @@ ld c,lam_majimeA1,22
 
 ;「………そ、そういえば……、昨夜、おかしな夢を見た気が……。@……私の脚本に、魔法を掛けるとか何とか……。@……いや、そんな馬鹿な……。」\
 ;＜朱志香
-`".........I-Isso me lembra......que na noite passada, eu tive um sonho meio estranho......`@`......Alguma coisa sobre magia sendo lanﾆada no meu roteiro......`@`Nﾃo, isso ｪ ridｨculo......"`\
+`".........I-Isso me lembra......que na noite passada, eu tive um sonho meio estranho......`@`......Alguma coisa sobre magia sendo lanﾆada no meu roteiro......`@` Nﾃo, isso ｪ ridｨculo......"`\
 
 bg black,22
 
@@ -5130,7 +5130,7 @@ se3v 62,90
 quakey 2,200
 
 ;　ジャングルを掻き分けて、山羊たちの大群がこちらに向かって突進してくる！@
-`Um grande fato de cabras estava arando atravｪs da selva, na nossa direﾆﾃo!`@
+`Um grande fato de cabras estava arando atravｪs da selva, vindo na nossa direﾆﾃo!`@
 ;br
 ;　山羊って言っても、四つん這いじゃない。@
 ;　みんな黒い燕尾服みたいなのを着ていて、人間みたいに二本足で駆けている。\
@@ -5171,7 +5171,7 @@ ld l,but_odorokiA2,23
 `"E-Eu sei disso......`@/
 bg black,1
 ;……うわッ！！」\
-`......Uwah!!"`\
+`......uwah!!"`\
 
 ;bg black,25
 bg well_1c,25
@@ -5339,7 +5339,7 @@ ld c,jes_odorokiA1,23
 ;ld c,jes_ikariA1,80
 
 ;「しかし、……こりゃ参ったな……。@ここ、ゲストハウスのはずだろ？@/
-`"Mas, ......que diabos......`@`Nｫs ainda deverｨamos estar na casa de hｫspedes, certo?`@/
+`"Mas, ......que diabos......?!`@` Nｫs ainda deverｨamos estar na casa de hｫspedes, certo?`@/
 
 ;ld c,jes_ikariA1,80
 
@@ -5367,7 +5367,7 @@ ld l,but_niramuA3,23
 ld c,jes_atyaA3,80
 
 ;「えっとその、……波乱万丈の冒険物語に…、色々とその、……リンゴとハチミツを混ぜてぐつぐつぐつ……。」\
-`"Hmm, vamos ver......ｴ uma histｫria de aventura cheia de reviravoltas...e um monte de, hmm......eu misturei ela com algumas maﾆﾃs e mel e deixei ferver......"`\
+`"Hmm, vamos ver...... ｴ uma histｫria de aventura cheia de reviravoltas...e um monte de, hmm......eu misturei ela com algumas maﾆﾃs e mel e deixei ferver......"`\
 
 ;ld c,jes_ikariA2,80
 bg moon_1a,26
@@ -5697,7 +5697,7 @@ ld c,but_aseruA3,80
 ld r,jes_atyaA3,24
 
 ;「い、いやその！@　……サクにひどい仕事押し付けられて、クソ～この野郎～って思って、どうもサクが王子役らしいって聞いて、@そのあの、……いっひっひ～！」\
-`"N-Nﾃo ｪ isso!`@` ......A Saku empurrou esse trabalho horrｨvel pra mim cima... e eu fiquei tipo 'maldita, mas que merda'... Mas como ouvi que ela iria interpretar o papel do prｨncipe,`@` eu, tipo, ......ihihi~!"`\
+`"N-Nﾃo ｪ isso!`@` ......A Saku empurrou esse trabalho horrｨvel pra mim cima...e eu fiquei tipo 'maldita, mas que merda'... Mas como ouvi que ela iria interpretar o papel do prｨncipe,`@` eu, tipo, ......ihihi~!"`\
 
 ;E_MA
 bg black,1
@@ -6196,7 +6196,7 @@ ld c,lam_akuwaraiA1,22
 bgm1 176
 
 ;　いつの間にかラムダデルタがいて、お腹を抱えてげらげら笑っていた。\
-`LAMBDADELTA tinha aparecido quando ninguｪm estava olhando, e estava segurando sua barriga e rindo alto.`\
+`LAMBDADELTA tinha aparecido quando ninguｪm estava olhando, segurando sua barriga e rindo alto.`\
 
 
 ld c,lam_akuwaraiA4,80
@@ -6828,7 +6828,7 @@ mcl c,22
 ld r,lam_akuwaraiA1,80
 
 ;「あらそう？」@
-`"Oh, ｪ mesmo?"`\
+`"Ora, ｪ mesmo?"`\
 
 ld l,ber_defA2,80
 
@@ -6860,7 +6860,7 @@ wait 600
 ;ld r,sha_odorokiA1,80
 
 ;「……戦人さん……、ごめんなさい……。@………もう、………腕が…………。」@
-`"......Battler-san......, me desculpe......`@`.........Meu braﾆo  estｧ.........prestes a............"`\
+`"......Battler-san......, me desculpe......`@`.........Meu braﾆo estｧ.........prestes a............"`\
 
 ;ld c,but_niramuA3,80
 
@@ -6983,7 +6983,7 @@ bgm1 43
 ld c,sha_odorokiA1,6
 
 ;「……夢、……だったのでしょうか。」@
-`"......Isso ......foi um sonho?"`\
+`"......Isso......foi um sonho?"`\
 
 ld l,but_niramuA3,22
 
@@ -7307,7 +7307,7 @@ bg rose_G1a,22
 mld c,RUD_WaraiA2,23
 
 ;「ほら、行くぞガキ共、じゃれあうのは後でにしろぃ！」@
-`"Ei, vamos logo pirralhos, vocｹs podem brincar depois!"`\
+`"Ei, vamos logo, pirralhos, vocｹs podem brincar depois!"`\
 
 ld l,KIR_DefA1,23
 ld l,KIR_WaraiA2,80
@@ -7483,7 +7483,7 @@ bfly1 11
 `Num piscar de olhos, as pｪtalas de rosas se espalharam e danﾆaram, revelando um cenｧrio fantｧstico.`\
 
 ;　しかし、……その舞い上がった花びらたちが、@まるで時間が凍りついたかのように、中空に動きを止めてしまう。@
-`Mas, ......as pｪtalas de rosa danﾆantes, como se estivessem congeladas no tempo, pararam de se mover no meio do ar.`@
+`Mas, ......as pｪtalas de rosas danﾆantes, como se estivessem congeladas no tempo, pararam de se mover no meio do ar.`@
 ;br
 ;　なのに、風だけは吹きぬけている、異世界。\
 `Era um mundo paralelo, onde apenas o vento soprava.`\
@@ -7581,7 +7581,7 @@ ld r,RON_AkuwaraiA1,80
 ld l,BU3_FutekiA2,80
 
 ;「つまり。@……俺は俺の、望む通りに、……好きにさせてもらっていいって。@……そういうことだよな……？」\
-`"Isso quer dizer,`@` ......que eu posso fazer, ......qualquer coisa que eu gosto, justamente como eu gosto.`@` ......ｴ isso......?"`\
+`"Isso quer dizer`@`......que eu posso fazer......qualquer coisa que eu gosto, justamente como eu gosto.`@` ......ｴ isso......?"`\
 
 ld r,RON_DefA1,80
 
@@ -7656,7 +7656,7 @@ ld r,BU3_MajimeA3s,80
 
 
 ;「……いいぜ。@今回も踊らされてやるよ。@……わけのわかんねー連続殺人事件の指揮棒を振るってやらぁ。@どいつもこいつも、……俺がタクトを振り上げるのを、今か今かと楽しみにして、お行儀よくシンとしてやがる。@/
-`"......Bem, entﾃo.`@` Eu farei eles danﾆarem mais uma vez.`@` ......Eu vou balanﾆar o bastﾃo do condutor deste incompreensｨvel caso de assassinatos em sｪrie.`@` Para todos vocｹs, ......eu vou levantar o bastﾃo, esperando ansiosamente, desprezando suas maneiras tolas.`@/
+`"......ｮtimo.`@` Eu farei eles danﾆarem mais uma vez.`@` ......Como maestro, assumirei a regｹncia da batuta deste incompreensｨvel caso de assassinatos em sｪrie.`@` Todos esperam ansiosos e impacientemente......aguardando por meu mortal gestual silencioso.`@/
 
 ld r,BU3_WaraiA1s,80
 ;悪笑いで！
@@ -7683,7 +7683,7 @@ ld r,RON_AkuwaraiA1,24
 `"Serｧ com a carta que anuncia os assassinatos entregue no jardim de rosas?`@` Ou talvez na preparaﾆﾃo do palco da tragｪdia?`@` Todos jｧ estﾃo aguardando ansiosamente o levantar das cortinas."`\
 
 cl l,0
-mld c,BU3_futekiA4,23
+ld c,BU3_futekiA4,23
 ;口角の上がった悪笑いがいいです
 ;「今回は、………誰から。@………いや。@……どういう風に、殺してやろうかな………。」\
 `"Desta vez, .........com o que eu devo comeﾆar, eu me pergunto.`@` .........Nﾃo...`@` ......Como eu devo matｧ-los.........?"`\
@@ -7705,7 +7705,7 @@ E_B
 `Ainda assim, a expressﾃo que ele tinha era a de outra pessoa.`@
 ;br
 ;　彼は本当に、……右代宮戦人なのか……。\
-`Ele era realmente ......Ushiromiya Battler......?`\
+`Ele era realmente......Ushiromiya Battler......?`\
 
 ;　彼こそは、右代宮戦人と同じ姿をした駒でありながら、@……まったく異なる“役目”を与えられた駒……。\
 `Ele era uma peﾆa que tinha a mesma forma que Ushiromiya Battler,`@` ......mas era uma peﾆa com um papel totalmente diferente......`\
@@ -7723,7 +7723,7 @@ wait 1000
 ld c,BU3_FutekiA5,22
 
 ;「いいや違うな。@俺が見たいのは殺しじゃない。@死体じゃない。@……俺が本当に見たいものは、……本当に一瞬なのさ。@俺は、その一瞬が見たいんだ。@わかるか、ロノウェ。」\
-`"Nﾃo, nﾃo ｪ isso.`@` Eu nﾃo quero ver qualquer assassinato.`@` Nem qualquer cadｧver.`@` ......O que eu realmente quero ver ｪ... ...ｪ realmente apenas aquele instante ｸnico.`@` Eu quero testemunhar aquele instante ｸnico.`@` Vocｹ entende, Ronove?"`\
+`"Nﾃo, nﾃo ｪ isso.`@` Eu nﾃo quero ver qualquer assassinato.`@` Nem qualquer cadｧver.`@` ......O que eu realmente quero ver......ｪ exclusivamente aquele instante ｸnico.`@` Eu quero testemunhar aquele instante ｸnico.`@` Vocｹ entende, Ronove?"`\
 
 ld l,RON_waraiA2,23
 
@@ -7756,13 +7756,13 @@ me1v 17,90
 ;「身動きの出来ない譲治の兄貴の目の前で！@　紗音ちゃんの首をゆっくりと絞めて殺したならッ、譲治の兄貴は何色の涙を零してくれるのかな？@　息子が犯人だと知って、そして頭を叩き割られる瞬間、クソ親父は何色の血を零してくれるのかな？@　あぁ、夏妃伯母さんの涙が見てみたい。@朱志香をぐちゃぐちゃのぎったぎたに殺してやって、@その死体をさも、たった今みつけたッ、みたいにしてやって。@夏妃伯母さんがどんな顔して、どんな涙を流しながら駆け寄るのか。@あの美人が、どんなぐしゃぐしゃな顔で泣くのか、見てみたいッ。@……あぁ、俺も一緒に泣いてやるだろうぜ。@そして泣きじゃくる伯母さんを胸に抱き締めて、俺も一緒に泣いてやるだろうぜ。」\
 `"Eu quero presenciar isso na frente dos olhos do George-aniki, enquanto ele nﾃo conseguir se mover!`@` De que cor serﾃo as lｧgrimas que ele vai derramar, quando eu estiver estrangulando a Shannon-chan lentamente, em frente aos olhos dele?`\
 ` Qual serｧ a cor do sangue que aquele pai idiota vai derramar, quando eu explodir a cabeﾆa dele, no momento em que ele descobrir que seu filho ｪ o culpado?`\
-`Aah, eu quero ver as lｧgrimas da tia Natsuhi.`@` Eu vou esmagar Jessica atｪ ela virar uma pasta sangrenta, pegajosa,`@` e entﾃo eu vou fingir que recｪm encontrei o cadｧver.`@` Que rosto a tia Natsuhi vai mostrar, e como serﾃo suas lｧgrimas quando ela comeﾆar a correr?`\
+`Aah, eu quero ver as lｧgrimas da tia Natsuhi.`@` Eu vou esmagar a Jessica atｪ ela virar uma pasta sangrenta, pegajosa,`@` e entﾃo eu vou fingir que recｪm encontrei o cadｧver.`@` Que rosto a tia Natsuhi vai mostrar, e como serﾃo suas lｧgrimas quando ela comeﾆar a correr?`\
 `Com que tipo de rosto lindamente contorcido ela vai chorar? Eu quero ver.`@` ......Aah, e eu vou chorar junto.`@` E entﾃo eu vou pressionｧ-la chorando contra o meu peito, e vou fazｹ-la pensar que estou chorando junto com ela."`\
 
 ;「……そして、………俺は最低最悪な下衆の顔で、泣き声とも笑い声ともつかない声で、@ぅっく、ぇっく、……くく、くっくくくく、はっははははははは、はっははははっはっはっははははは！！@　見てぇんだろ？@　お前らが見てぇのはそういう話なんだろ？！@　はははは、見せてやるよ。@この俺が、@“犯人たりえる右代宮戦人”がッ、お前らに最高のエンターテイメントを見せてやるッ、@/
 `"...E, .........com a mais terrｨvel e pior humildade no meu rosto, vou falar sem chorar ou rir.`@` Aagh, ungh, ......uhuhu, uhhuhuhuhu, hahhahahahahahaha, hahhahahahahhahhahhahahahaha!!"`\
 ` "Estﾃo vendo?`@` Essa ｪ a histｫria que todos vocｹs querem ver, certo?!`@` Hahahaha, eu a mostrarei para vocｹs!"`\
-` "Eu vou lhes mostrar a maior forma de entretenimento, com um`@` 'Ushiromiya Battler que pode ser o culpado',`@/
+` "Eu lhes mostrarei a maior forma de entretenimento, com um`@` 'Ushiromiya Battler que pode ser o culpado',`@/
 se3v 37,100
 se2v 37,100
 ;はっはひゃっはっははぁあ！！」\
@@ -7798,7 +7798,7 @@ ld l,BU3_MajimeA3s,80
 
 
 ;「まずはオーヴァーチュアから、と行きたいところだが。@……俺はまだここに来たばかりでね。@序曲の前に、調律と行かせてもらおう。」\
-`"Eu gostaria de comeﾆar com uma #ECD672ouverture#FFFFFF.`@` ......Eu acabei de chegar aqui, certo?`@` Entﾃo, antes do prelｸdio, eu preciso afinar os instrumentos."`\
+`"Eu gostaria de comeﾆar com uma ouverture.`@` ......Eu acabei de chegar aqui, certo?`@` Entﾃo, antes do prelｸdio, eu preciso afinar os instrumentos."`\
 
 ld r,RON_majimeA2,80
 
@@ -7830,7 +7830,7 @@ ld r,RON_WaraiA2,80
 ld l,BU3_FutekiA3,80
 
 ;「……このゲーム盤での俺が、どの程度に描かれているのか。@そいつを手っ取り早く試させてもらうぜ。@……この“俺”は、……本当に“俺”として、書き上げられているんだろうな…？@　俺に満足できる“俺”じゃないならば。@………俺はこの舞台、何もせずに降りちまうからな……？」\
-`"......De que forma, o 'eu' neste tabuleiro foi desenhado?`@` Eu quero determinar isso testando de modo rｧpido e fｧcil.`@` ......Este 'eu'......foi realmente escrito de uma forma que vale a pena ser eu...?`@` Se nﾃo for um 'eu' que me satisfaﾆa`@`......eu posso descartar essa etapa sem fazer nada, sabe......?"`\
+`"......De que forma o 'eu' neste tabuleiro foi desenhado?`@` Eu quero determinar isso testando de modo rｧpido e fｧcil.`@` ......Este 'eu'......foi realmente escrito de uma forma que vale a pena ser eu...?`@` Se nﾃo for um 'eu' que me satisfaﾆa`@`......eu posso descartar essa etapa sem fazer nada, sabe......?"`\
 
 ;ここで画面黒にしてみては？
 
@@ -8099,7 +8099,7 @@ ld l,BU3_nayamuA2,80
 ld r,BEA_FutekiA2,80
 
 ;「……うむ。@認めようぞ。@……そなたは、“そなた”である。@……再び会えて嬉しいぞ。@……そして、そなたは出会う度に、強く、美しく、………そして恐ろしくなる。」\
-`"......Sim.`@` Eu reconheﾆo.`@` ......Vocｹ ｪ 'vocｹ'.`@` ......Estou tﾃo feliz por poder encontrｧ-lo novamente.`@` ......E a cada vez que o encontro, vocｹ fica mais forte, mais belo, .........e mais terrｨvel."`\
+`"......Sim.`@` Eu reconheﾆo.`@` ......Vocｹ ｪ 'vocｹ'.`@` ......Estou tﾃo feliz por poder encontrｧ-lo novamente.`@` ......E a cada vez que o encontro, vocｹ fica mais forte, mais belo.........e mais terrｨvel."`\
 
 cl l,22
 bg black,22
@@ -8124,7 +8124,7 @@ ld c,BU3_MajimeA3s,22
 
 
 ;「……決まっているだろうが、そんなことは。@そしてそれは、俺とお前も同じだ。」\
-`"......Nﾃo ｪ ｫbvio?`@` ｴ algo que se aplica a ambos de nｫs."`\
+`"......Nﾃo ｪ ｫbvio?`@` ｴ algo que se aplica a ambos. Somos iguais."`\
 
 ld l,BEA_AkuwaraiA1,22
 
@@ -8206,7 +8206,7 @@ ld r,BU3_nayamuA3,80
 
 
 ;「あぁそうだな、本当に退屈なシナリオだ。@誰なんだ？@　俺たちという偽書の、今度の作者は…？」\
-`"Vocｹ estｧ certa, vai ser realmente chato.`@` Quem ｪ o responsavel?`@` Quem e o autor dessas Falsificaﾆｷes, que somos nｫs...?"`\
+`"Vocｹ estｧ certa, vai ser realmente chato.`@` Quem ｪ o responsavel?`@` Quem ｪ o autor dessas Falsificaﾆｷes, que somos nｫs...?"`\
 
 ld l,BEA_AkuwaraiA3,80
 
@@ -8299,12 +8299,12 @@ se1 21
 ld r,KAN_IkariA1,80
 
 ;「………悪魔め…。@……一体、誰が、お前なんかを望むというんだ……。」\
-`".........Seu demﾛnio...`@`......Quem diabos chamou alguｪm como vocｹ aqui......?"`\
+`".........Seu demﾛnio...`@` ......Quem diabos chamou alguｪm como vocｹ aqui......?"`\
 
 ld l,BUT_FutekiA2,80
 
 ;「俺が犯人だと、期待して止まない大勢の観劇者たちと、@彼らと俺に夢を与える、名も無き戯曲家たちだぜ。」\
-`"Foi o nｸmero imbatｨvel de espectadores que esperam me ver como o culpado,`@` e aqueles condutores sem nome que me conferem esta opera."`\
+`"Foi o nｸmero imbatｨvel de espectadores que esperam me ver como o culpado;`@` os incｫgnitos dramaturgos sem-nome que conferem a nｫs esta ｫpera."`\
 
 ld r,KAN_IkariA2,80
 
@@ -8397,7 +8397,7 @@ ld c,BU3_FutekiA3,80
 
 
 ;「さぁ、今宵もゲームの始まりだ……！」\
-`"Certo, o jogo comeﾆa mais uma vez esta noite......!"`\
+`"Pois bem, o jogo desta noite estｧ para comeﾆar......!"`\
 
 ;ここ黒画面で最後表示した方がかっこいいかと！
 
