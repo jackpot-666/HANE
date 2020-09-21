@@ -7377,7 +7377,7 @@ ld r,JES_AkuwaraiA1,24
 `Seus olhos nﾃo refletiam seus primos.`\
 
 ;　薔薇の花びらが舞い散る薔薇庭園の光景か、@……あるいは、その彼方の、灰色の空が映っているだけだった。\
-`A ｸnica coisa que refletiam era a visﾃo das pｪtalas de rosas danﾆando atravｪs do jardim de rosas,`@` ......ou talvez mesmo o cｪu cinzento no horizonte.`\
+`A ｸnica coisa que refletiam era a visﾃo das pｪtalas de rosa danﾆando atravｪs do jardim de rosas,`@` ......ou talvez mesmo o cｪu cinzento no horizonte.`\
 
 cl c,23
 ld c,GEO_HohoemiA1k,24
@@ -7488,7 +7488,7 @@ bfly1 11
 `Num piscar de olhos, as pｪtalas de rosas se espalharam e danﾆaram, revelando um cenｧrio fantｧstico.`\
 
 ;　しかし、……その舞い上がった花びらたちが、@まるで時間が凍りついたかのように、中空に動きを止めてしまう。@
-`Mas, ......as pｪtalas de rosa danﾆantes, como se estivessem congeladas no tempo, pararam de se mover no meio do ar.`@
+`Mas, ......as pｪtalas de rosas danﾆantes, como se estivessem congeladas no tempo, pararam de se mover no meio do ar.`@
 ;br
 ;　なのに、風だけは吹きぬけている、異世界。\
 `Era um mundo paralelo, onde apenas o vento soprava.`\

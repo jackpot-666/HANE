@@ -7656,7 +7656,7 @@ ld r,BU3_MajimeA3s,80
 
 
 ;「……いいぜ。@今回も踊らされてやるよ。@……わけのわかんねー連続殺人事件の指揮棒を振るってやらぁ。@どいつもこいつも、……俺がタクトを振り上げるのを、今か今かと楽しみにして、お行儀よくシンとしてやがる。@/
-`"......ｮtimo.`@` Eu farei eles danﾆarem mais uma vez.`@` ......Como maestro, assumirei a regｹncia da batuta deste incompreensｨvel caso de assassinatos em sｪrie.`@` Todos esperam ansiosos e impacientemente......aguardando por meu mortal gestual silencioso.`@/
+`"......ｮtimo.`@` Eu farei eles danﾆarem mais uma vez.`@` ......Como maestro, assumirei a regｹncia da batuta deste incompreensｨvel caso de assassinatos em sｪrie.`@` Todos esperam ansiosos e impacientemente......aguardando por meu mortal gestual silencioso.`\
 
 ld r,BU3_WaraiA1s,80
 ;悪笑いで！
