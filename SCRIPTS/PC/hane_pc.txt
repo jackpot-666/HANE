@@ -4484,7 +4484,7 @@ quakey 3,200
 ;br
 ;　これで、……どうだよ……。@
 ;　ちゃんと三日で書き上げたぞ……。@
-`Finalmente......estｧ pronto......?`@
+`Finalmente......estｧ pronto......`@
 `Passei trｹs dias escrevendo isso......`@
 
 bg MJES_1e,0
@@ -5144,7 +5144,7 @@ lsp2 200,":c;bmp\background\sbook\1_a.bmp",320,440,200,200,0
 print 22
 
 ;　どいつもこいつも、やたらと筋骨隆々で、ものすごく汗臭い、男臭い！！@
-`Cada uma delas era excessivamente musculosa e fediam a suar igual homens!!`@
+`Cada uma delas era excessivamente musculosa e fediam a suor igual homens!!`@
 ;br
 ;　それよりも怖いのは、あの爛々とした赤い目と、涎をだらだら零すあの口だ！\
 `Mas ainda mais assustador do que isso eram os seus olhos vermelhos flamejantes e bocas salivando!`\
@@ -6039,7 +6039,7 @@ locate 0,5
 ;　そして舞台は再びジャングルへ……。@
 ;　鬱蒼と茂った、熱帯植物の茂みを掻き分けると……。\
 `E agora o palco tinha voltado mais uma vez para a selva......`@
-`Quando eles conseguiram atravｪs a densa mata de plantas tropicais......`\
+`Quando eles conseguiram atravessar a densa mata de plantas tropicais......`\
 
 
 bg tower4,22
@@ -6105,7 +6105,7 @@ print 2
 ;br
 ;　大きな漆黒のマントをなびかせ、見るからに貫禄あるシルエットを見せ付けています。@
 ;　彼こそは、……お姫様をさらい、塔に閉じ込めた、最強最悪の大魔法使い……。\
-`Ele estava usando uma manto azeviche, e sua silhueta tinha uma presenﾆa imponente.`@
+`Ela estava usando um manto azeviche, e sua silhueta tinha uma presenﾆa imponente.`@
 `Este era certamente, ......aquele que tinha raptado a princesa e a trancado na torre, o feiticeiro mais forte e terrｨvel......`\
 
 
@@ -7790,7 +7790,7 @@ ld r,RON_WaraiA2,22
 ;ld r,RON_DefA1,80
 
 ;「素晴らしいですな。@どの物語も実に見応えがありそうだッ。@さぁ、戦人さま！@　今宵のゲームは？！@　今宵の惨劇は？！@　さぁ、まずは誰からお殺しになりますかな？！」\
-`"Verdadeiramente esplｹndido.`@` Uma histｫria que realmente vale a pena ser vista.`@` Bem, entﾃo, Battler-sama!`@` Como vai ser o jogo desta noite?!`@` Como vai ser a tragｪdia!`@` Quem deve serｧ o primeiro a morrer?!"`\
+`"Verdadeiramente esplｹndido.`@` Uma histｫria que realmente vale a pena ser vista.`@` Bem, entﾃo, Battler-sama!`@` Como vai ser o jogo desta noite?!`@` Como vai ser a tragｪdia?!`@` Quem deve serｧ o primeiro a morrer?!"`\
 
 ld l,BU3_MajimeA1,23
 ;ld l,BU3_FutekiA1,80
@@ -7803,7 +7803,7 @@ ld l,BU3_MajimeA3s,80
 ld r,RON_majimeA2,80
 
 ;「どの楽器の素晴らしき音色も、まずは調律から。@では、そのチューニングに、まず何をなさいますかな…！」\
-`"Nﾃo importa quﾃo esplｹndido o som possa ser, um instrumento tem de ser afinado.`@` Mas o que acontecerｧ nesse estado de afinaﾆﾃo...!"`\
+`"Nﾃo importa quﾃo esplｹndido o som possa ser, um instrumento tem de ser afinado.`@` Mas o que acontecerｧ nesse estado de afinaﾆﾃo...?!"`\
 
 textoff
 
@@ -8206,7 +8206,7 @@ ld r,BU3_nayamuA3,80
 
 
 ;「あぁそうだな、本当に退屈なシナリオだ。@誰なんだ？@　俺たちという偽書の、今度の作者は…？」\
-`"Vocｹ estｧ certa, vai ser realmente chato.`@` Quem ｪ o responsavel?`@` Quem ｪ o autor dessas Falsificaﾆｷes, que somos nｫs...?"`\
+`"Vocｹ estｧ certa, vai ser realmente chato.`@` Quem ｪ o responsｧvel?`@` Quem ｪ o autor dessas Falsificaﾆｷes, que somos nｫs...?"`\
 
 ld l,BEA_AkuwaraiA3,80
 
@@ -8350,7 +8350,7 @@ ld c,BUT_futekiA1,22
 bgm1 19
 
 ;「今夜。@大広間の大時計が２４時を告げたら。@使用人室の扉にノックがあり、……廊下へ出たらその封筒が置かれていたと言って、@食堂の親族たちに届けろ。」\
-`"Nesta noite,`@` quando o grande relｫgio do hall bater meia-noite,`@` vocｹ vai entregar isto aos membros da famｨlia na sala de jantar.`@` Vai dizer a eles ouviu uma batida na porta da sala dos serviﾆais, ......e quando vocｹ saiu para o corredor, este envelope estava largado no chﾃo."`\
+`"Nesta noite,`@` quando o grande relｫgio do hall bater meia-noite,`@` vocｹ vai entregar isto aos membros da famｨlia na sala de jantar.`@` Vai dizer a eles que ouviu uma batida na porta da sala dos serviﾆais, ......e quando vocｹ saiu para o corredor, este envelope estava largado no chﾃo."`\
 
 ld l,KAN_NayamuA1,22
 
@@ -8420,7 +8420,7 @@ bg portrait6,22
 `Eu amo vocｹs, meus gatinhos negros.`@
 ;br
 ;　お前の望むままに、……この狂った夜を、永遠に続けさせてやる。@
-`Vou repetir esta noite insandecida por toda a eternidade, ......por quanto tempo vocｹ desejar.`@
+`Vou repetir esta noite ensandecida por toda a eternidade, ......por quanto tempo vocｹ desejar.`@
 ;br
 ;　あぁ、了解だぜ。@今宵はそういう趣向で行こう。\
 `Sim, entendido.`@` Nesta noite, iremos com o plano.`\
@@ -8491,7 +8491,7 @@ bg black,22
 bg Mlib_1b,22
 
 ;　さて、本年（平成２４年）は、再び、新しい作品に挑戦する予定です。@
-`Bem, estamos no ano 24 da Era Heisei 24 (2012), e eu pretendo desafiar a mim mesmo com um novo trabalho.`@ 
+`Bem, estamos no ano 24 da Era Heisei (2012), e eu pretendo desafiar a mim mesmo com um novo trabalho.`@ 
 br
 ;　『ひぐらし』『うみねこ』『黄金夢想曲』『彼岸花』に続く、次の作品は……。\
 `Meu prｫximo trabalho, depois de 'Higurashi', 'Umineko', 'Ougon Musou Kyoku' e 'Higanbana' serｧ...`\
