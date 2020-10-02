@@ -5218,6 +5218,7 @@ wait 300
 se1v 34,70
 bg white,1
 mbg bite,25
+bg bite,25
 quake 3,500
 
 ;　ぎ、ぎぇえええええぇええええええ……！！！　@……………ぇ？\
@@ -5226,7 +5227,7 @@ quake 3,500
 E_A
 
 se1 56
-mono 1
+;mono 1
 ;E_A
 
 ;bg white,68
@@ -5237,7 +5238,7 @@ mono 1
 ;E_A
 se1 55
 bg black,0
-mono 0
+;mono 0
 mcbg 0
 print 99,3000,"breakup.dll/llb"
 
