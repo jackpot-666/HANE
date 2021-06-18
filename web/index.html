@@ -1,53 +1,66 @@
 <!DOCTYPE html>
-<meta charset="UTF-8" lang="pt-br">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
 
-<html>
+<html lang="pt-br">
 
-<head><style>
+<head>
+<link rel="icon" href="img/favicon.ico">
+<style>
+
+* { 
+	margin:0; 
+	padding:0;
+	top: 0;
+	left: 0;
+}
 body {
     background-image: url("img/bg.jpg");
 	background-repeat: no-repeat;
     background-size: cover;
-	background-position: center fixed;
-	height: 100%; 
+	background-attachment: fixed;
+	background-color: #666600;
+	background-blend-mode: lighten;
+	height: auto; 
 }
-
 img{
- max-width:100%;
- height:auto;
+	width: 36%;
+	height: auto;
+	box-shadow: 4px 4px 6px #222222;
 }
-
+.navi{
+	height: auto;
+	width: auto;
+	margin:26px;
+	overflow: hidden;
+	vertical-align: center;
+	line-height: 2.2em;
+	scroll: none;
+}
+p {
+	/*desabilita cursor de texto e seleção*/
+	user-select: none;
+}
 </style>
 </head>
-
 <body>
-<div style="margin:26px";>
+<nav class="navi">
 <p>
-<a href="http://www.07th-expansion.net/" target="_blank" rel="noopener">
-<img src="img/07h_expansion.png" height="100" width="350"></a>
+<a href="https://07th-expansion.net/" target="_blank" rel="noopener">
+<img src="img/07h_expansion.png" alt="07th Expansion"></a>
 </p><p>
 <a href="https://knox.fansub.com.br/" target="_blank" rel="noopener">
-<img src="img/knox.png" height="100" width="350"></a>
+<img src="img/knox.png" alt="Knox Translations"></a>
 </p><p>
 <a href="https://higurashieternal.wordpress.com/" target="_blank" rel="noopener">
-<img src="img/higu.png" height="100" width="350"></a>
+<img src="img/higu.png" alt="Higurashi Eternal"></a>
 </p><p>
 <a href="notas\notas.html" target="_blank" rel="noopener">
-<img src="img/notas.png" height="100" width="350"></a>
+<img src="img/notas.png" alt="Notas de Tradução"></a>
 </p><p>
 <a href="img\controles.png" target="_blank" rel="noopener">
-<img src="img/control.png" height="100" width="350"></a>
+<img src="img/control.png" alt="Controles"></a>
 </p>
-</div>
-
-
-
-
-
-
-
+</nav>
 </body>
-
-
-
 </html>
