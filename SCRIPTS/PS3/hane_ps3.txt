@@ -4408,7 +4408,7 @@ ld r,jes_waraiA1,80
 
 ;『そうとも言うなー。@つまり！@　私はハートから湧き出す物語を、歌に乗せてるーってわけだぜ！』@
 ;『そうそう！@　ジェシーの歌詞ってさー、物語あるよねー！@　ジェシーってきっと、物語とか書くの、絶対うまいよ！』\
-`"Tambｪm podemos colocar desta forma.`@` Em outras palavras!`@` Eu organizo as histｫrias jorrando do meu coraﾆﾃo e dou asas a elas com mｸsica!"`\
+`"Tambｪm podemos colocar dessa forma.`@` Em outras palavras!`@` Eu organizo as histｫrias jorrando do meu coraﾆﾃo e dou asas a elas com mｸsica!"`\
 `"Sim, sim!`@` Suas mｸsicas sempre trazem histｫrias consigo, Jessie!`@` Eu aposto que se escrevesse uma histｫria ou algo assim, ela ficaria incrｨvel!"`\
 
 ld r,jes_futekiA2,80
@@ -4427,10 +4427,10 @@ bg black,22
 
 
 ;　………正直、安請け合いだった。@
-`.........Honestamente, eu devia ter pensado um pouco mais antes de decidir qualquer coisa.`\
+`.........Honestamente, eu devia ter pensado um pouco mais antes de prometer qualquer coisa.`\
 ;br
 ;　来月の文化祭でお芝居をやるらしくて。@……その脚本を、締め切りが急だとかで３日で書いてくれなんて話になるとは、@……夢にも思わなかったぜ…。\
-`Aconteceu que haveria uma peﾆa no festival cultural do mｹs seguinte.`@` ......Eu nﾃo fazia ideia`@`......de que a conversa iria terminar com ela me pedindo para escrever o roteiro, com 3 dias para o fim do prazo.`\
+`Aconteceu que haveria uma peﾆa no festival cultural do mｹs seguinte.`@` ......Eu nﾃo fazia ideia`@`......de que a conversa iria terminar com ela me pedindo para escrever o roteiro, com trｹs dias para o fim do prazo.`\
 
 ld l,jes_futekiA2,22
 
@@ -4444,14 +4444,14 @@ bg black,22
 
 ;　……そう言えば母さんによく注意されてたなぁ。@
 ;　あなたとお父さんには、その場の雰囲気でＯＫをしてしまう悪い癖があるから注意しなさいって。@
-`......Pensando nisso agora, a mamﾃe bem que me avisou, nﾃo foi?`@
+`......Pensando nisso agora, minha mﾃe bem que me avisou, nﾃo foi`@
 `'Vocｹ e seu pai tｹm o pｪssimo hｧbito de serem envolvidos pelo calor do momento e concordarem com as coisas. Vocｹ precisa ser mais cuidadosa.'`@
 
 ;wait 300
 ;ld l,jes_aisowaraiA1,80
 ;br
 ;　…………あーうー、ごめん、母さん。\
-`............Aauuu, me desculpe, mamﾃe.`\
+`............Aauu, me desculpa, mﾃe.`\
 
 ;bg black,80
 bg black,22
@@ -4629,8 +4629,8 @@ ld c,lam_akuwaraiA3,80
 
 ;「“絶対”？」@
 ;「絶対絶対。」\
-`"'Certamente'?"`\
-`"Certamente, certamente."`\
+`"'Certeza'?"`\
+`"Certeza, certeza."`\
 
 
 ;wait 500
@@ -7201,7 +7201,7 @@ ld r,MAR_NiyariA1,23
 ld r,MAR_WaraiA2,80
 
 ;「うーうー！@　薔薇がいっぱい！@　薔薇がいっぱい！@　うー！！」@
-`"Uu-, Uu-!`@` Tantas rosas!`@` Tantas rosas!`@` Uu-!!"`\
+`"Uu-uu!`@` Tantas rosas!`@` Tantas rosas!`@` Uu!!"`\
 
 ;ld l,JES_DefA1,23
 ld l,JES_WaraiA1,23
@@ -7263,7 +7263,7 @@ ld c,BUT_DefA1,23
 ld c,BUT_WaraiA1,80
 
 ;「六軒島もずいぶん久しぶりだが、ホント相変わらず、屋敷も庭園もデケェよなぁ…！」\
-`"Realmente foi um longo tempo, mas, justo como esperado, a mansﾃo e o jardim ainda sﾃo enormes...!"`\
+`"Realmente faz muito tempo desde a minha ｸltima vez em Rokkenjima; essa mansﾃo e o jardim enormes continuam os mesmos...!"`\
 
 ld l,JES_AkuwaraiA1,23
 
@@ -7273,20 +7273,20 @@ ld l,JES_AkuwaraiA1,23
 ld r,GEO_WaraiA1,24
 
 ;「はははは。@朱志香ちゃんはこの６年間、戦人くんがいなくてつまらなそうだったからね。@それにしても、デケェ図体というのは同感。@戦人くんは、本当に大きくなったね。」\
-`"Hahaha.`@` Parece que vocｹ ficou entediada nesses 6 anos sem o Battler-kun, hein, Jessica-chan?`@` Mas o lugar nﾃo ｪ a ｸnica coisa que parece enorme.`@` Battler-kun, vocｹ realmente cresceu bastante!"`\
+`"Hahaha.`@` Parece que vocｹ ficou entediada nesses seis anos sem o Battler-kun, hein, Jessica-chan?`@` Mas o lugar nﾃo ｪ a ｸnica coisa que parece enorme.`@` Battler-kun, vocｹ realmente cresceu bastante!"`\
 
 cl r,23
 ld r,MAR_DefA1,24
 ld r,MAR_fukigenA1,80
 
 ;「真里亞、ちっとも大きくならない。@いつまで経っても、背が伸びない。うー。」@
-`"A Maria nﾃo cresceu nada!`@` O tempo passa, mas sempre continuo do mesmo tamanho, uu-."`\
+`"A Maria nﾃo cresceu nada!`@` O tempo passa, mas sempre continuo do mesmo tamanho. Uu."`\
 
 
 ld c,BUT_DefA1,80
 
 ;「大丈夫だぜ。@真里亞もその内、いーっぱい伸びるからよぅ。@それこそ、上にも前にもなー！@　いーっひっひっひ！」\
-`"Nﾃo se preocupa!`@` Logo vai comeﾆar a se desenvolver.`@` Isso mesmo, para cima e para a frente!`@` Ihhihihi!"`\
+`"Nﾃo se preocupa!`@` Logo vai comeﾆar a se desenvolver.`@` Isso mesmo, para cima e para frente!`@` Ihhihihi!"`\
 
 se1 3
 cl r,23
@@ -7319,7 +7319,7 @@ ld l,KIR_DefA1,23
 ld l,KIR_WaraiA2,80
 
 ;「６年ぶりの再会だもの。@興奮してるのよ、みんな。」\
-`"ｴ a primeira vez que todos se encontram em 6 anos.`@` Estﾃo todos muito animados."`\
+`"ｴ a primeira vez que todos se encontram em seis anos.`@` Estﾃo todos muito animados."`\
 
 ld r,GOH_DefA1,24
 ld r,GOH_omakaseA2,80
@@ -7355,7 +7355,7 @@ ld c,MAR_DefA1,24
 ld c,MAR_OdorokiA1,80
 
 ;「……うー？@　……戦人、どうしたの…？」@
-`"......Uu-?`@` ......Battler, o que foi...?"`\
+`"......Uu?`@` ......Battler, o que foi...?"`\
 
 ld l,BUT_NayamuA4,80
 
@@ -7378,7 +7378,7 @@ ld r,JES_AkuwaraiA1,24
 `Seus olhos nﾃo refletiam seus primos.`\
 
 ;　薔薇の花びらが舞い散る薔薇庭園の光景か、@……あるいは、その彼方の、灰色の空が映っているだけだった。\
-`A ｸnica coisa que refletiam era a visﾃo das pｪtalas de rosa danﾆando atravｪs do jardim de rosas,`@` ......ou talvez mesmo o cｪu cinzento no horizonte.`\
+`A ｸnica coisa que refletiam era a visﾃo das pｪtalas de rosa danﾆando atravｪs do jardim de rosas,`@` ......ou talvez o cｪu cinzento no horizonte.`\
 
 cl c,23
 ld c,GEO_HohoemiA1k,24
@@ -7389,7 +7389,7 @@ ld c,GEO_HohoemiA1k,24
 
 ;　６年ぶりの六軒島、……いや、右代宮家なのだ。@
 ;　戦人にだって、心の整理にわずかの時間が必要に違いない。@
-`Rokkenjima depois de 6 anos, ......nﾃo, a famｨlia Ushiromiya.`@
+`Rokkenjima depois de seis anos, ......nﾃo, a famｨlia Ushiromiya.`@
 `Estava claro que o Battler precisava de um pouco mais de tempo para organizar suas emoﾆｷes.`@
 ;br
 ;　譲治はそう察し、朱志香と真里亞に、先に行っていようと促す。\
@@ -7401,26 +7401,26 @@ bg black,22
 
 
 ;　何しろ、６年も経ったのだ。@
-`Afinal de contas, foram 6 anos.`@
+`Afinal de contas, foram seis anos.`@
 ;br
 ;　自分たちは６年前に戻ったようにさっきまではしゃいでいたが、@……それはあくまでも６年前のことであって。@
 ;　あれからの長い時間が、彼の身長や体格がそうであるように、……心さえも。@大きく変えたに違いないのだ。\
-`Agora hｧ pouco eles estavam brincando como se tivessem voltado para seus eus mais jovens, de 6 anos atrｧs,`@` ......mas nﾃo importa o quanto fizessem isso, 6 anos tinham se passado.`\
-`Depois de tanto tempo, certamente nﾃo era apenas sua altura e feiﾆｷes que haviam mudado, ......mas tambｪm sua mente.`@` Ele devia ter mudado severamente.`\
+`Agora hｧ pouco eles estavam brincando como se tivessem voltado para seus eus mais jovens, de seis anos atrｧs,`@` ......mas nﾃo importa o quanto fizessem isso, seis anos tinham se passado.`\
+`DDepois de tanto tempo, certamente nﾃo era apenas suas alturas e feiﾆｷes que haviam mudado, ......mas tambｪm suas mentalidades`@` Ele devia ter mudado severamente.`\
 
 bg rose_1a,0
 ld c,BUT_FutekiA4,22
 
 ;　その表情には、６年前の、まだまだ子供だった頃の戦人とはまったく違う何かが浮かんでいる。@
 ;　朱志香もそう察する。\
-`A expressﾃo do seu rosto mostrava algo mais do que o Battler de 6 anos atrｧs, que era apenas uma crianﾆa.`@
+`A expressﾃo em seu rosto mostrava algo mais alｪm do Battler de seis anos atrｧs, que era apenas uma crianﾆa.`@
 `Jessica tambｪm sentiu isso.`\
 
 ld r,JES_MajimeA1,24
 ld r,JES_futekiA1,80
 
 ;「わかった。@……じゃあ私たちは先に行ってるぜ。@後でな、戦人…！」@
-`"Entendo.`@` ......Vamos indo na frente.`@` Te vemos mais tarde, Battler...!"`\
+`"Entendi.`@` ......Vamos indo na frente.`@` Te vemos mais tarde, Battler...!"`\
 
 ld c,BUT_futekiA5,80
 
@@ -7577,7 +7577,7 @@ cl c,0
 ld l,BU3_NayamuA2,24
 
 ;「駒には駒の役目がある。@チェス盤に置かれたなら、駒に定められた役目に従い、………存分に盤上で暴れる。@つまりは、そういうことだろ…？」\
-`"Uma peﾆa tem o seu dever sendo uma peﾆa.`@` Uma vez colocada no tabuleiro de jogo, desde que permaneﾆa dentro dos limites do papel dado, ......ela pode agir selvagemente no tabuleiro, de acordo com sua vontade.`@` Assim ｪ como sﾃo as coisas, certo...?"`\
+`"Uma peﾆa tem o seu dever sendo uma peﾆa.`@` Uma vez colocada no tabuleiro de jogo, desde que permaneﾆa dentro dos limites do papel dado, ......ela pode agir selvagemente no tabuleiro, de acordo com sua vontade.`@` ｴ assim que as as funcionam, certo...?"`\
 
 ld r,RON_AkuwaraiA1,80
 
@@ -7587,7 +7587,7 @@ ld r,RON_AkuwaraiA1,80
 ld l,BU3_FutekiA2,80
 
 ;「つまり。@……俺は俺の、望む通りに、……好きにさせてもらっていいって。@……そういうことだよな……？」\
-`"Isso quer dizer`@`......que eu posso fazer......qualquer coisa que eu gosto, justamente como eu gosto.`@` ......ｴ isso......?"`\
+`"Isso quer dizer`@`......que eu posso fazer......qualquer coisa que eu queira, justamente como eu quero.`@` ......ｴ isso......?"`\
 
 ld r,RON_DefA1,80
 
@@ -7686,13 +7686,13 @@ ld l,BU3_majimeA6s,23
 ld r,RON_AkuwaraiA1,24
 
 ;「薔薇庭園にて犯罪の予告状を？@　それとも、惨劇の舞台の準備を？@　皆様方が、その開演を今か今かと待ち望んでおいでです。」\
-`"Serｧ com a carta que anuncia os assassinatos entregue no jardim de rosas?`@` Ou talvez na preparaﾆﾃo do palco da tragｪdia?`@` Todos jｧ estﾃo aguardando ansiosamente o levantar das cortinas."`\
+`"Com a carta que anuncia os assassinatos entregue no jardim de rosas?`@` Ou talvez na preparaﾆﾃo do palco da tragｪdia?`@` Todos jｧ estﾃo aguardando ansiosamente o levantar das cortinas."`\
 
 cl l,0
 ld c,BU3_futekiA4,23
 ;口角の上がった悪笑いがいいです
 ;「今回は、………誰から。@………いや。@……どういう風に、殺してやろうかな………。」\
-`"Desta vez, .........com o que eu devo comeﾆar, eu me pergunto.`@` .........Nﾃo...`@` ......Como eu devo matｧ-los.........?"`\
+`"Desta vez, .........com quem eu devo comeﾆar?`@` .........Nﾃo...`@` ......Como eu devo matｧ-los.........?"`\
 
 mono 1
 print 0
@@ -7742,7 +7742,7 @@ ld c,BU3_FutekiA3,80
 E_A
 
 ;「そうさ。@/
-`"Isso.`@/
+`"Precisamente.`@/
 bgm1 157
 ;………俺は、最高に美しくて、最高に最低な、@……散り際が見たいんだ。」@
 ` .........O que eu quero ver ｪ o mais belo, o mais terrｨvel`@`......momento de dispersﾃo."`\
@@ -7763,16 +7763,16 @@ me1v 17,90
 `"Eu quero presenciar isso na frente dos olhos do George-aniki, enquanto ele nﾃo conseguir se mover!`@` De que cor serﾃo as lｧgrimas que ele vai derramar, quando eu estiver estrangulando a Shannon-chan lentamente, em frente aos olhos dele?`\
 ` Qual serｧ a cor do sangue que aquele pai idiota vai derramar, quando eu explodir a cabeﾆa dele, no momento em que ele descobrir que seu filho ｪ o culpado?`\
 `Aah, eu quero ver as lｧgrimas da tia Natsuhi.`@` Eu vou esmagar a Jessica atｪ ela virar uma pasta sangrenta, pegajosa,`@` e entﾃo eu vou fingir que recｪm encontrei o cadｧver.`@` Que rosto a tia Natsuhi vai mostrar, e como serﾃo suas lｧgrimas quando ela comeﾆar a correr?`\
-`Com que tipo de rosto lindamente contorcido ela vai chorar? Eu quero ver.`@` ......Aah, e eu vou chorar junto.`@` E entﾃo eu vou pressionｧ-la chorando contra o meu peito, e vou fazｹ-la pensar que estou chorando junto com ela."`\
+`Com que tipo de rosto lindamente contorcido ela vai chorar? Eu quero ver.`@` ......Aah, e eu vou chorar junto.`@` E entﾃo, vou pressionｧ-la chorando contra o meu peito, e vou fazｹ-la pensar que estou chorando junto com ela."`\
 
 ;「……そして、………俺は最低最悪な下衆の顔で、泣き声とも笑い声ともつかない声で、@ぅっく、ぇっく、……くく、くっくくくく、はっははははははは、はっははははっはっはっははははは！！@　見てぇんだろ？@　お前らが見てぇのはそういう話なんだろ？！@　はははは、見せてやるよ。@この俺が、@“犯人たりえる右代宮戦人”がッ、お前らに最高のエンターテイメントを見せてやるッ、@/
 `"...E, .........com a mais terrｨvel e pior humildade no meu rosto, vou falar sem chorar ou rir.`@` Aagh, ungh, ......uhuhu, uhhuhuhuhu, hahhahahahahahaha, hahhahahahahhahhahhahahahaha!!"`\
-` "Estﾃo vendo?`@` Essa ｪ a histｫria que todos vocｹs querem ver, certo?!`@` Hahahaha, eu a mostrarei para vocｹs!"`\
-` "Eu lhes mostrarei a maior forma de entretenimento, com um`@` 'Ushiromiya Battler que pode ser o culpado',`@/
+` "Estﾃo vendo?`@` Essa ｪ a histｫria que todos queriam ver, nﾃo ｪ?`@` Hahahaha, eu a mostrarei para vocｹs!"`\
+` "Eu lhes mostrarei a maior forma de entretenimento,`@` com um 'Ushiromiya Battler que pode ser o culpado'.`@/
 se3v 37,100
 se2v 37,100
 ;はっはひゃっはっははぁあ！！」\
-` hahhahyahahhahaaa!!"`\
+` Hahhahyahahhahaaa!!"`\
 
 se1v 27,100
 
@@ -7785,7 +7785,7 @@ wait 500
 mcbg 2
 
 ;　戦人が空へ、あるいは満座の観客席へそう吠える。@
-`Battler rugiu em direﾆﾃo ao cｪu, nﾃo, em direﾆﾃo a uma palteia repleta de espectadores.`@
+`Battler rugiu em direﾆﾃo ao cｪu, nﾃo, em direﾆﾃo a uma plateia repleta de espectadores.`@
 ;br
 ;　それは雷鳴という大歓声をもって迎えられるのだった。\
 `E sua exclamaﾆﾃo foi acompanhada por um trovﾃo ressoando, como um aplauso.`\
@@ -7796,7 +7796,7 @@ ld r,RON_WaraiA2,22
 ;ld r,RON_DefA1,80
 
 ;「素晴らしいですな。@どの物語も実に見応えがありそうだッ。@さぁ、戦人さま！@　今宵のゲームは？！@　今宵の惨劇は？！@　さぁ、まずは誰からお殺しになりますかな？！」\
-`"Verdadeiramente esplｹndido.`@` Uma histｫria que realmente vale a pena ser vista.`@` Bem, entﾃo, Battler-sama!`@` Como vai ser o jogo desta noite?!`@` Como vai ser a tragｪdia?!`@` Quem deve serｧ o primeiro a morrer?!"`\
+`"Verdadeiramente esplｹndido.`@` Uma histｫria que realmente vale a pena ser vista.`@` Entﾃo, Battler-sama!`@` Como serｧ o jogo desta noite?!`@` Como serｧ a tragｪdia?!`@` Quem serｧ o primeiro a morrer?!"`\
 
 ld l,BU3_MajimeA1,23
 ;ld l,BU3_FutekiA1,80
@@ -7804,7 +7804,7 @@ ld l,BU3_MajimeA3s,80
 
 
 ;「まずはオーヴァーチュアから、と行きたいところだが。@……俺はまだここに来たばかりでね。@序曲の前に、調律と行かせてもらおう。」\
-`"Eu gostaria de comeﾆar com uma ouverture.`@` ......Eu acabei de chegar aqui, certo?`@` Entﾃo, antes do prelｸdio, eu preciso afinar os instrumentos."`\
+`"Estou cogitando abrir os trabalhos com uma ouverture.`@` ......Eu acabei de chegar aqui, certo?`@` Entﾃo, antes do prelｸdio, eu preciso afinar os instrumentos."`\
 
 ld r,RON_majimeA2,80
 
@@ -7836,7 +7836,7 @@ ld r,RON_WaraiA2,80
 ld l,BU3_FutekiA3,80
 
 ;「……このゲーム盤での俺が、どの程度に描かれているのか。@そいつを手っ取り早く試させてもらうぜ。@……この“俺”は、……本当に“俺”として、書き上げられているんだろうな…？@　俺に満足できる“俺”じゃないならば。@………俺はこの舞台、何もせずに降りちまうからな……？」\
-`"......De que forma o 'eu' neste tabuleiro foi desenhado?`@` Eu quero determinar isso testando de modo rｧpido e fｧcil.`@` ......Este 'eu'......foi realmente escrito de uma forma que vale a pena ser eu...?`@` Se nﾃo for um 'eu' que me satisfaﾆa`@`......eu posso descartar essa etapa sem fazer nada, sabe......?"`\
+`"......De que forma o 'eu' neste tabuleiro foi desenhado?`@` Eu quero determinar isso testando de modo rｧpido e fｧcil.`@` ......Este 'eu'......foi realmente escrito de uma forma que vale a pena ser eu...?`@` Se nﾃo for um 'eu' que me satisfaﾆa`@`......eu posso deixar este palco sem fazer nada, sabia......?"`\
 
 ;ここで画面黒にしてみては？
 
@@ -7886,7 +7886,7 @@ ld l,RON_WaraiA2,80
 `".........Pukkukukukukukuku, kuhhahahahahaha, ......ahhahahahahahahahahahahahaha!!"`\
 ;br
 ;　ロノウェが自重気味に笑うことならばよくあるが、@……このように、のけぞってまで大笑いするところを見るのは、誰にとってもこれが初めてだろう。\
-`Ronove frequentemente ria de uma maneira prudente, composta,`@` ......mas, ouvi-lo rir de um modo tﾃo exagerado e descomposto, era a primeira vez para todos.`\
+`Ronove frequentemente ria de uma maneira prudente e composta,`@` ......mas, ouvi-lo rir de um modo tﾃo exagerado e descomposto, era a primeira vez para todos.`\
 
 ld l,RON_majimeA2,80
 
@@ -7901,8 +7901,8 @@ ld r,BU3_niramuA2s,80
 ;ぶっこわれた悪笑いがいいです
 
 ;「そうさ。@俺もそれを確かめたい。@………俺に、それが出来るようにちゃんと描かれているのかどうか。@それを俺は確かめたいッ。@もしも確かめて、俺が“俺”に描けていないようならば、俺を砕けロノウェ、バラバラの粉々に！！@　そんな偽書は真っ平御免だぜッ！@　“俺”という駒を呼び出すに充分な、最高に笑える偽書なのかどうか、お前が俺を試してくれ…！！@　さぁ、ロノウェ、試そうぜ…、試し合おうぜ…！！@　ははッ、あっはははははははははははははははは！！！」\
-`"Sim.`@` Eu quero testar isso tambｪm.`@` .........Se fui desenhado de uma maneira que eu poderia ser capaz de fazer algo assim.`@` Eu quero testar.`@` Se eu posso realmente ser desenhado de uma forma que nﾃo eu nﾃo seja 'eu', esmague-me Ronove, rasgue-me em pedaﾆos!!`@` Somente tal falsificaﾆﾃo seria perdoada!"`\
-` "Agora, teste-me tambｪm, se esse 'eu' que foi chamado novamente, ｪ uma falsificaﾆﾃo digna do maior riso...!!`@` Vamos, Ronove, teste-o...vamos ambos testｧ-lo...!!`@` Haha, ahhahahahahahahahahahahahahahahaha!!!"`\
+`"Sim.`@` Eu quero testar isso tambｪm.`@` .........Se fui traﾆado de uma maneira na qual eu possa ser capaz de fazer algo assim.`@` Eu quero testar.`@` Caso eu nﾃo tenha sido desenhado da forma com que seja 'eu', esmague-me Ronove, rasgue-me em pedaﾆos`@` Nﾃo quero saber de uma falsificaﾆﾃo dessas!"`\
+` "Agora, teste-me tambｪm, se esse 'eu' que foi chamado novamente, ｪ uma falsificaﾆﾃo digna do maior escｧrnio...!!`@` Vamos, Ronove, teste-o...vamos testar juntos...!!`@` Haha, ahhahahahahahahahahahahahahahahaha!!!"`\
 
 textoff
 
@@ -8062,7 +8062,7 @@ ld r,BEA_fukigenA1,22
 ;bgm1 19
 
 ;「ふっ、冗談を。@……あのように楽しそうなそなたに声を掛けたならば、妾までそなたの楽器にされてしまうわ。」\
-`"Que piada.`@` ......Se vocｹ tivesse sido desenhado para se expressar tﾃo alegremente, eu poderia me tornar seu instrumento tambｪm."`\
+`"Que piada.`@` ......Se eu o tivesse chamado enquanto se expressava tﾃo alegremente, poderia acabar me tornar seu instrumento tambｪm."`\
 
 ;ld l,BUT_DefA2,23
 ld l,BU3_MajimeA6s,23
@@ -8071,7 +8071,7 @@ ld l,BU3_MajimeA6s,23
 `".........Isso poderia acontecer.`@/
 ld l,BU3_FutekiA4,80
 ;……以前に聞いた、お前の音色も忘れられない。@お前は最高のバイオリンだったよ。@あの音色は、まさに天国から聞こえるかのようだった。@;……だが、もうしばらくはいい。@大事に大事にもったいぶる。@……それが、長く長く、永遠に愛でる唯一のコツなんだからよ。」\
-` ......Depois que eu o ouvi uma vez, eu nunca vou esquecer esse som de novo.`@` Foi o violino mais perfeito.`@` Esse som, foi como se estivesse vindo do prｫprio cｪu."`\
+` ......Depois de ouvir uma vez, jamais me esqueceria de sua melodia.`@` Vocｹ foi o melhor violino de todos..`@` Aquele som parecia estar vindo do prｫprio cｪu."`\
 `"......Mas eu posso esperar um pouco mais.`@` Porque ｪ algo realmente, realmente importante.`@` ......Porque esse ｪ o ｸnico som que eu tenho amado hｧ muito, muito tempo, e amarei por toda a eternidade."`\
 
 ld r,BEA_AkuwaraiA1,80
@@ -8119,7 +8119,7 @@ bg rose_2bP,22
 ;ld r,BEA_FutekiA2,80
 
 ;「恐ろしいことよ…。@……そなたを望む観劇者たちは、一体、我等に何を望んでいるというのか…。」\
-`"ｴ realmente terrｨvel...`@` ......O que os espectadores que torcem por vocｹ esperam de nｫs...?"`\
+`"ｴ realmente assustador...`@` ......O que os espectadores que torcem por vocｹ esperam de nｫs...?"`\
 
 textoff
 
@@ -8173,12 +8173,12 @@ bg rose_3aP,0
 ld l,BEA_DefA1,24
 
 ;「さて、戦人よ。@これよりどうする？@　序曲はどのような惨劇から幕を開けるのか？」@
-`"Entﾃo, Battler.`@` O que vai fazer agora?`@` A partir de qual tragｪdia este prelｸdio comeﾆarｧ?"`\
+`"Entﾃo, Battler.`@` O que vai fazer agora?`@` Com qual tragｪdia este prelｸdio comeﾆarｧ?"`\
 
 ld r,BU3_FutekiA3,24
 
 ;「開演のベルはまだだぜ。@………そいつは今夜の２４時に、大広間の大時計が告げるんだ。」\
-`"Nﾃo ｪ hora de levantar a cortina, ainda.`@` .........O sinal serｧ o grande relｫgio no hall, ﾚs 24 horas desta noite."`\
+`"Ainda nﾃo ｪ hora de abrir as cortinas`@` .........O sinal serｧ o grande relｫgio no hall, ﾚs 24 horas desta noite."`\
 
 ld l,BEA_AkuwaraiA1,80
 
@@ -8195,7 +8195,7 @@ ld r,BU3_MajimeA3s,80
 ld l,BEA_AkuwaraiA5,80
 
 ;「そして、浜辺に行く途中で妾の肖像画を見て、@誰なんだこの貴婦人は？と言うのだな？」@
-`"Entﾃo, vocｹ vai encarar o meu retrato enquanto estｧ indo para a praia,`@` perguntando quem ｪ essa mulher?"`\
+`"Entﾃo, vocｹ vai encarar o meu retrato enquanto estｧ indo para a praia,`@` perguntando 'quem ｪ essa mulher'?"`\
 
 ld r,BU3_FutekiA2,80
 
@@ -8205,7 +8205,7 @@ ld r,BU3_FutekiA2,80
 ld l,BEA_FutekiA2,80
 
 ;「やれやれ。@２４時までは退屈だな。@実に退屈なシナリオだ。」@
-`"Ora, ora.`@` Vai ser chato antes da meia-noite.`@` Um cenｧrio realmente chato."`\
+`"Fala sｪrio.`@` Vai ser chato antes da meia-noite.`@` Um cenｧrio realmente chato."`\
 
 ;ld r,BUT_FutekiA1,80
 ld r,BU3_nayamuA3,80
@@ -8217,7 +8217,7 @@ ld r,BU3_nayamuA3,80
 ld l,BEA_AkuwaraiA3,80
 
 ;「知らぬわ。@誰でも良い。@そしてそれは、我等と同類であろう。@……退屈を愛さず。@血と涙で記した悲劇をこよなく愛する、冷血なるサディストたち……。」\
-`"Nﾃo faﾆo ideia.`@` Qualquer um estｧ bom.`@` E ele ｪ como nｫs.`@` ......Alguｪm que nﾃo gosta de tｪdio.`@` Alguｪm que gosta de histｫrias escritas a sangue e lｧgrimas mais do que qualquer outra coisa, um sｧdico impiedoso......"`\
+`"Nﾃo faﾆo ideia.`@` Qualquer um estｧ bom.`@` E ele ｪ como nｫs.`@` ......Alguｪm sem apreﾆo pelo tｪdio.`@` Alguｪm que gosta de histｫrias escritas a sangue e lｧgrimas mais do que qualquer outra coisa, um sｧdico impiedoso......"`\
 
 cl r,0
 ld c,BU3_FutekiA3,24
@@ -8298,7 +8298,7 @@ ld l,BUT_FutekiA1,80
 
 
 ;「そんな顔するなよ。@お前だって、見たいだろ。@……朱志香お嬢様が、身も心もぼろぼろになって。@自分はどうなってもいいから、嘉音くんを許して下さいって言わせて、@……自らの指を切断するところを、また見たいだろ……？」\
-`"Nﾃo me olhe assim.`@` Atｪ vocｹ quer ver isso, certo?`@` ......Como a Jessica ojou-sama ｪ reduzida ﾚs lｧgrimas, corpo e alma.`@` Vocｹ quer ouvi-la dizer que nﾃo importa o que aconteﾆa a ela, contanto que Kanon-kun seja poupado.`@` ......Vocｹ nﾃo quer vｹ-la cortar seus prｫprios dedos novamente......?"`\
+`"Nﾃo me olhe assim.`@` Atｪ vocｹ quer ver isso, nﾃo quer?`@` ......Como a Jessica ojou-sama ｪ reduzida ﾚs lｧgrimas, corpo e alma.`@` Vocｹ quer ouvi-la dizer que nﾃo importa o que aconteﾆa a ela, contanto que Kanon-kun seja poupado.`@` ......Vocｹ nﾃo quer vｹ-la cortar seus prｫprios dedos novamente......?"`\
 
 se1 21
 
@@ -8310,7 +8310,7 @@ ld r,KAN_IkariA1,80
 ld l,BUT_FutekiA2,80
 
 ;「俺が犯人だと、期待して止まない大勢の観劇者たちと、@彼らと俺に夢を与える、名も無き戯曲家たちだぜ。」\
-`"Foi o nｸmero imbatｨvel de espectadores que esperam me ver como o culpado;`@` os incｫgnitos dramaturgos sem-nome que conferem a nｫs esta ｫpera."`\
+`"Foi o nｸmero imbatｨvel de espectadores que esperam me ver como o culpado;`@` os incｫgnitos dramaturgos anﾛnimos que conferem a nｫs esta ｫpera."`\
 
 ld r,KAN_IkariA2,80
 
@@ -8349,14 +8349,14 @@ se3v 1010,50
 ;ld r,KAN_DefA2,80
 
 ;「……お預かりします。」\
-`"......Eu vou cuidar das coisas."`\
+`"......Cuidarei de tudo."`\
 
 ld c,BUT_futekiA1,22
 
 bgm1 19
 
 ;「今夜。@大広間の大時計が２４時を告げたら。@使用人室の扉にノックがあり、……廊下へ出たらその封筒が置かれていたと言って、@食堂の親族たちに届けろ。」\
-`"Nesta noite,`@` quando o grande relｫgio do hall bater meia-noite,`@` vocｹ vai entregar isto aos membros da famｨlia na sala de jantar.`@` Vai dizer a eles que ouviu uma batida na porta da sala dos serviﾆais, ......e quando vocｹ saiu para o corredor, este envelope estava largado no chﾃo."`\
+`"Nesta noite,`@` quando o grande relｫgio do hall bater meia-noite,`@` vocｹ dirｧ que ouviu uma batida na porta da sala dos serviﾆais, ......e ao sair para o corredor encontrou um envelope,`@` e o entregarｧ aos membros da famｨlia na sala de jantar."`\
 
 ld l,KAN_NayamuA1,22
 
@@ -8371,7 +8371,7 @@ cl a,0
 mcbg 42
 
 ;　再び雷鳴。@真っ暗な空は激しく瞬く。@
-`De novo um trovﾃo rugindo.`@` O cｪu escuro foi riscado violentamente por seu brilho.`@
+`De novo, um trovﾃo rugindo.`@` O cｪu escuro foi riscado violentamente por seu brilho.`@
 ;br
 ;　叩き付けるような雨の中、戦人は笑いながら再び両腕を広げて、空を見上げる。\
 `Com a chuva ainda caindo, Battler abriu seus braﾆos mais uma vez enquanto ria e olhava para o cｪu.`\
@@ -8383,7 +8383,7 @@ dllefe_off
 `Afinal, a eterna caixa de gato estava realmente em suas mﾃos.`@` Este recorrente pesadelo era exatamente como ele tinha imaginado.`@
 ;br
 ;　だってだって、未来人の空想は尽きることがない。@飽きることがない。@
-`Afinal, as fantasias das pessoas do futuro nunca se esgotariam.`@` Nunca seria tedioso.`@
+`Isso porque as fantasias das pessoas do futuro nunca se esgotarﾃo.`@` Nunca serｧ tedioso.`@
 ;br
 ;　だからこれは……。\
 `ｴ por isso que......`\
@@ -8429,17 +8429,17 @@ bg portrait6,22
 `Vou repetir esta noite ensandecida por toda a eternidade, ......por quanto tempo vocｹ desejar.`@
 ;br
 ;　あぁ、了解だぜ。@今宵はそういう趣向で行こう。\
-`Sim, entendido.`@` Nesta noite, iremos com o plano.`\
+`Sim, tudo certo.`@` Nesta noite, iremos com o plano.`\
 
 bg black,22
 
 ;　お前と二人、抱き締めあってなら。@
 ;　永遠の闇の底まで、……一緒に堕ちてやるぜ……。@
-`Junto com vocｹ, nｫs cairemos juntos no fundo da eterna escuridﾃo,`@
-`enquanto nｫs nos abraﾆamos firmemente.`@
+`Junto com vocｹ, enquanto nos abraﾆamos com forﾆa,`@
+`nｫs cairemos juntos nas profundezas da eterna escuridﾃo.`@
 ;br
 ;　くくくく、くっくっくっくっくっく！！\
-`Ihihihi, hahahahahaha!!`\
+`*gargalhada*...*gargalhada*gargalhada*!!`\
 
 se1v 27,100
 bg white,1
