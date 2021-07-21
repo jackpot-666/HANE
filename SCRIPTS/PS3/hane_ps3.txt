@@ -4444,7 +4444,7 @@ bg black,22
 
 ;　……そう言えば母さんによく注意されてたなぁ。@
 ;　あなたとお父さんには、その場の雰囲気でＯＫをしてしまう悪い癖があるから注意しなさいって。@
-`......Pensando nisso agora, minha mﾃe bem que me avisou, nﾃo foi`@
+`......Pensando nisso agora, minha mﾃe bem que me avisou, nﾃo foi?`@
 `'Vocｹ e seu pai tｹm o pｪssimo hｧbito de serem envolvidos pelo calor do momento e concordarem com as coisas. Vocｹ precisa ser mais cuidadosa.'`@
 
 ;wait 300
@@ -7406,7 +7406,7 @@ bg black,22
 ;　自分たちは６年前に戻ったようにさっきまではしゃいでいたが、@……それはあくまでも６年前のことであって。@
 ;　あれからの長い時間が、彼の身長や体格がそうであるように、……心さえも。@大きく変えたに違いないのだ。\
 `Agora hｧ pouco eles estavam brincando como se tivessem voltado para seus eus mais jovens, de seis anos atrｧs,`@` ......mas nﾃo importa o quanto fizessem isso, seis anos tinham se passado.`\
-`DDepois de tanto tempo, certamente nﾃo era apenas suas alturas e feiﾆｷes que haviam mudado, ......mas tambｪm suas mentalidades`@` Ele devia ter mudado severamente.`\
+`Depois de tanto tempo, certamente nﾃo era apenas suas alturas e feiﾆｷes que haviam mudado, ......mas tambｪm suas mentalidades`@` Ele devia ter mudado severamente.`\
 
 bg rose_1a,0
 ld c,BUT_FutekiA4,22
