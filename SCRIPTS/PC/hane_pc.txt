@@ -7372,7 +7372,7 @@ ld r,JES_AkuwaraiA1,24
 `Seus olhos nÃo refletiam seus primos.`\
 
 ;@åKåN‚Ì‰Ô‚Ñ‚ç‚ª•‘‚¢U‚éåKåN’ë‰€‚ÌŒõŒi‚©A@cc‚ ‚é‚¢‚ÍA‚»‚Ì”Ş•û‚ÌAŠDF‚Ì‹ó‚ª‰f‚Á‚Ä‚¢‚é‚¾‚¯‚¾‚Á‚½B\
-`A ¸nica coisa que refletiam era a visÃo das pªtalas de rosas danÆando atravªs do jardim de rosas,`@` ......ou talvez o cªu cinzento no horizonte.`\
+`A ¸nica coisa que refletiam era a visÃo das pªtalas de rosa danÆando atravªs do jardim de rosas,`@` ......ou talvez o cªu cinzento no horizonte.`\
 
 cl c,23
 ld c,GEO_HohoemiA1k,24
