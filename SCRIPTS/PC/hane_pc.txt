@@ -7240,7 +7240,7 @@ mcl c,0
 cl a,23
 
 ;「あははは」@「うふふふ」@「きゃっきゃ」@
-`"Ahahaha"`@` "Ufufufu"`@` "Kyahahaha"`@
+`"Ahahaha"`@` "Ufufufu"`@` "Kyakkya"`@
 ;br
 ;　親族会議にやって来た親族たちが、いつもと変わらない会話を弾ませながら薔薇庭園を歩く。\
 `Os membros da famｨlia, vindos para a conferｹncia familiar, passeavam pelo jardim de rosas, conversando como sempre.`\
@@ -7262,7 +7262,7 @@ ld c,BUT_WaraiA1,80
 ld l,JES_AkuwaraiA1,23
 
 ;「ったく、６年もご無沙汰しやがって！@　ひょっこり帰ってきたと思ったら、こんなにデケェ図体になりやがってよ。」@
-`"Francamente, depois de 6 anos sem nenhum contato,`@` eu nﾃo posso acreditar que a primeira coisa que vocｹ notou ao voltar ｪ como este lugar ｪ enorme."`\
+`"Francamente, depois de 6 anos sem aparecer dar as caras,`@` eu nﾃo posso acreditar que a primeira coisa que vocｹ notou ao voltar ｪ como este lugar ｪ enorme."`\
 
 ld r,GEO_WaraiA1,24
 
@@ -7557,7 +7557,7 @@ wait 1000
 ld c,BU3_FutekiA5,80
 
 ;「………俺がここにいる、ということは。@……俺は俺の役割を果たしていい、……ってことだよな。」@
-`".........Entﾃo, agora que eu estou aqui.`@` ......Quer dizer que devo atuar o meu prｫprio papel, certo?"`\
+`".........Entﾃo, o que minha presenﾆa aqui significa?`@` ......Quer dizer que devo atuar o meu prｫprio papel, certo?"`\
 
 ;cl c,0
 ;ld l,BU3_FutekiA5,0
@@ -7644,7 +7644,7 @@ ld l,RON_WaraiA1,80
 ld r,BU3_NayamuA2,80
 
 ;「俺、こーいうの、何て言うか知ってるぜ。@……無茶振りって言うんだろ？@　ほら、テレビのバラエティーとかでよくあるだろ。@若手芸人を唐突に呼び出して、何の準備もさせないで、いきなり面白ェことをしろ、@みたいにさせるやつ。」\
-`"E se supｷe que eu deveria saber o que fazer?`@` ......Vocｹ ｪ completamente insano?`@` Ei, isso ｪ exatamente como aqueles programas de variedades na TV.`@` Eles subitamente chamam um jovem ator ao palco e dizem para fazer algo divertido, sem qualquer preparaﾆﾃo."`\
+`"E se supｷe que eu deveria saber o que fazer?`@` Querem que eu faﾆa algo completamente irracional......?`@` ｴ exatamente como naqueles programes de variedades da TV, nﾃo ｪ?`@` Chamam um jovem ator ao palco de surpresa e, sem que tenha qualquer preparativo, pedem para ele fazer algo interessante.`@` Tipo isso?"`\
 
 ld l,RON_WaraiA2,80
 
@@ -7680,7 +7680,7 @@ ld l,BU3_majimeA6s,23
 ld r,RON_AkuwaraiA1,24
 
 ;「薔薇庭園にて犯罪の予告状を？@　それとも、惨劇の舞台の準備を？@　皆様方が、その開演を今か今かと待ち望んでおいでです。」\
-`"Com a carta que anuncia os assassinatos entregue no jardim de rosas?`@` Ou talvez na preparaﾆﾃo do palco da tragｪdia?`@` Todos jｧ estﾃo aguardando ansiosamente o levantar das cortinas."`\
+`"Com a carta que anuncia os assassinatos, entregue no jardim de rosas?`@` Ou talvez na preparaﾆﾃo do palco da tragｪdia?`@` Todos jｧ estﾃo aguardando ansiosamente o levantar das cortinas."`\
 
 cl l,0
 ld c,BU3_futekiA4,23
@@ -7862,7 +7862,7 @@ ld r,BU3_MajimeA3s,80
 ;口角の上がった悪笑いで
 
 ;「お前のその指が。@一本一本。@………折れる度にどんな音を奏でてくれるのか。@……それを聞かせてくれよ。」\
-`"Que mｸsica serei capaz de tocar`@`.........quando eu quebrar seus dedos,`@` um por um?`@` ......Deixe-me ouvi-la."`\
+`"Que tal seus dedos?`@` Um por um.`@` .........Que sinfonia eu serei capaz de tocar ao quebrｧ-los?`@` ......Deixe-me ouvi-la."`\
 
 ;　戦人は怪しく笑う。@
 ;　その笑みにあるのは、猟奇的なものでも、悪魔的なものでもない。\
@@ -8056,7 +8056,7 @@ ld r,BEA_fukigenA1,22
 ;bgm1 19
 
 ;「ふっ、冗談を。@……あのように楽しそうなそなたに声を掛けたならば、妾までそなたの楽器にされてしまうわ。」\
-`"Que piada.`@` ......Se eu o tivesse chamado enquanto se expressava tﾃo alegremente, poderia acabar me tornar seu instrumento tambｪm."`\
+`"Que piada.`@` ......Se eu o tivesse chamado enquanto se expressava tﾃo alegremente, poderia acabar me tornando seu instrumento tambｪm."`\
 
 ;ld l,BUT_DefA2,23
 ld l,BU3_MajimeA6s,23
