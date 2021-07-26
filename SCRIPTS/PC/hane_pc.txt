@@ -4499,7 +4499,7 @@ print 99,1000,"trvswave.dll/"
 ;bg MJES_1e,80
 ;wait 700
 ;　不眠不休で書いたから、……頭が朦朧とする…。\
-`Passei noite e dia escrevendo sem descanﾆo, ......entﾃo minha mente estｧ meio entorpecida...`\
+`Passei noite e dia escrevendo sem descanso, ......entﾃo minha mente estｧ meio entorpecida...`\
 
 lsp 800,":c;bmp\black.bmp",0,0,100
 print 22
