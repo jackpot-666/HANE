@@ -41,6 +41,6 @@ jobs:
       uses: "WyriHaximus/github-action-get-previous-tag@v1"
       
     - name: Release
-      run: gh release create ${{ steps.previoustag.outputs.tag }} "HE.KT.Umineko.Hane.PT-BR.(Legacy.Art).7z" "HE.KT.Umineko.Hane.PT-BR.(PS3).7z"
+      run: gh release upload ${{ steps.previoustag.outputs.tag }} "HE.KT.Umineko.Hane.PT-BR.(Legacy.Art).7z" "HE.KT.Umineko.Hane.PT-BR.(PS3).7z"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
