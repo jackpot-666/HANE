@@ -25,10 +25,19 @@ jobs:
     - name: compile patch
       run: python dependencies\compile_ps3.py
 
+    #- name: Release
+    #  uses: softprops/action-gh-release@v1
+    #  if: startsWith(github.ref, 'refs/tags/')
+    #  with:
+    #    files: HE.KT.Umineko.Hane.PT-BR.(PS3).7z   # nome do arquivo final que irá para os releases
+    #  env:
+    #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: 'Get Previous tag'
+      id: previoustag
+      uses: "WyriHaximus/github-action-get-previous-tag@v1"
+      
     - name: Release
-      uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/')
-      with:
-        files: HE.KT.Umineko.Hane.PT-BR.(PS3).7z   # nome do arquivo final que irá para os releases
+      run: gh release upload ${{ steps.previoustag.outputs.tag }} "HE.KT.Umineko.Hane.PT-BR.(PS3).7z"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
