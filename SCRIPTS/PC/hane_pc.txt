@@ -7262,7 +7262,7 @@ ld c,BUT_WaraiA1,80
 ld l,JES_AkuwaraiA1,23
 
 ;「ったく、６年もご無沙汰しやがって！@　ひょっこり帰ってきたと思ったら、こんなにデケェ図体になりやがってよ。」@
-`"Francamente, depois de 6 anos sem aparecer dar as caras,`@` eu nﾃo posso acreditar que a primeira coisa que vocｹ notou ao voltar ｪ como este lugar ｪ enorme."`\
+`"Francamente, depois de seis anos sem aparecer,`@` eu nﾃo posso acreditar que a primeira coisa que vocｹ notou ao voltar ｪ como este lugar ｪ enorme."`\
 
 ld r,GEO_WaraiA1,24
 
